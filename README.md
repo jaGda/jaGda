@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning java fundamentals. I've graduated a few courses but still, I'm far far away from being even a semi-specialist :laughing:
+
 <!--
 **jaGda/jaGda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
